@@ -112,7 +112,7 @@
         <h1 id="site-name">Shosify</h1>
     </div>
 <div class="nav-menus">
-        <a class="menu" href="index.php">Home</a>
+        <a class="menu" href="home.php">Home</a>
         <a class="menu" href="products.php">Shop-Products</a>
         <a class="menu" href="blogs.php">Blogs</a>
     </div>
